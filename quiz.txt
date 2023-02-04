@@ -1,0 +1,17 @@
+1. Git ,subversion
+2. Prometheus and Grafana
+3. For Automation
+4. Git is open source version cintrol system(VCS)
+5. Devops is neither an application nor a tool,instead it is just to promote development and operation process.
+6. i working directory
+    ii. staging area
+    iii. repository
+7. Represents an independent line of development.
+8.  git clone
+9. git stash
+10. git add -A
+11. Packing and building purpose
+12. Code hosting platform for VCS
+13. git status
+14. Kubernates
+15. terraform
